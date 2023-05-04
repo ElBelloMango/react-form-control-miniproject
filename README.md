@@ -1,5 +1,7 @@
 # React Form Control
-A mini project on real-time validation in a form using react
+A mini project on real-time validation in a form using react.
+
+*Done in the Hooks and Context Course from Alura LATAM*
 
 ## TOOLS
 Using Vite,Material UI, React Hooks, and ValidityState.
